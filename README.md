@@ -1,4 +1,4 @@
-# Deploy a static site on Github pages using Vite & Github Actions
+# Deploy a static site on Github Pages using Vite & Github Actions
 
 1. Set the correct `base` in `vite.config.js`.
 
